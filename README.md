@@ -1,5 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/ok-bar?style=social) 
- <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+ <a href="https://www.linkedin.com/in/omree-kapon//[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 Welcome to my page!
