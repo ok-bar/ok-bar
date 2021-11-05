@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/ok-bar?style=social)
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 I’m interested in Machine and deep learning projects.
 - 📫 How to reach me ...
