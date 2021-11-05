@@ -2,7 +2,11 @@
 
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 Welcome to my page!
-I'm Omree, a passionate data scientist with a Phd in Chemistry.
+I'm Omree, a passionate data scientist with a Phd in Chemistry. 
+⚡ Fun facts:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :I wrote a song about a particle :smile: <br>
+ 
+ 
 
 ---
 
@@ -20,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-bar&hide=java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-Contact me at:
+
 
 [![Omree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-bar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
