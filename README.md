@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 
  <a href="https://www.linkedin.com/in/omree-kapon//" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="50" width="50">
