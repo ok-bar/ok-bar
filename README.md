@@ -15,6 +15,10 @@ I'm Omree, a passionate data scientist with a Phd in Chemistry.
 ok-bar/ok-bar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-bar&hide=java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Omree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-bar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
