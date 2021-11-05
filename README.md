@@ -4,7 +4,7 @@
 - 👀 Welcome to my page!
 I'm Omree, a passionate data scientist with a Phd in Chemistry. 
 
-⚡ Fun fact about me:<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :I wrote a song about a particle :smile: <br>
+⚡ Fun fact about me:<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I wrote a song about a particle :smile: <br>
  
  
 
