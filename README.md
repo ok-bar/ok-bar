@@ -1,4 +1,4 @@
-- 👋 Hello World , I’m Omree (:
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 I’m interested in Machine and deep learning projects.
 - 📫 How to reach me ...
 
