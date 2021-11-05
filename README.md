@@ -2,7 +2,7 @@
 
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 Welcome to my page!
-I'm Omree, a passionate data scientist with a Phd in Chemistry. 
+I'm Omree, a data scientist with a Ph.D. in Chemistry.
 
 ⚡ Fun fact about me:<br>I wrote a song about a particle: https://www.youtube.com/watch?v=l1K2DMm8M4o :smile: <br>
  
