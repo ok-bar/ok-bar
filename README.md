@@ -1,4 +1,4 @@
-<![GitHub followers](https://img.shields.io/github/followers/ok-bar?style=social)>
+![GitHub followers](https://img.shields.io/github/followers/ok-bar?style=social)> <a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href=”https://www.linkedin.com/in/omree-kapon"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omree Kapon!
 - 👀 Welcome to my page!
