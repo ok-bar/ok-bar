@@ -22,6 +22,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Omree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-bar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
- <a href="https://www.linkedin.com/in/omree-kapon//" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="50" width="50">
