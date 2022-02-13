@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ok-bar?style=social)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omree-kapon/)
 
-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Omree Kapon!
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Omree Kapon!
 - 👀 Welcome to my page!
 I'm Omree, a data scientist with a Ph.D. in Chemistry.
 
