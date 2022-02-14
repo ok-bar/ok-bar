@@ -2,6 +2,7 @@
 
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Omree Kapon!
 - 👀 Welcome to my page!
+- :books: Really believe that you should always learn newthings: “The more I live, the more I learn. The more I learn, the more I realize, the less I know.” -Michel Legrand
 I'm  a data scientist with a Ph.D. in Chemistry.
 
 ⚡ Fun fact about me:<br>I wrote a song about a particle: https://www.youtube.com/watch?v=l1K2DMm8M4o :smile: <br>
