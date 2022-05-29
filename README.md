@@ -29,3 +29,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Omree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-bar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![snake gif](https://github.com/ok-bar/ok-bar/blob/output/github-contribution-grid-snake.gif)
