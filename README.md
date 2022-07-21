@@ -5,7 +5,7 @@
 - :man_scientist: I'm  a data scientist with a Ph.D. in Chemistry.
 - :books: Really believe that you should always learn newthings: “The more I live, the more I learn. The more I learn, the more I realize, the less I know.” -Michel Legrand
 
-⚡ Fun fact about me:<br>I wrote a song about a particle: https://www.youtube.com/watch?v=l1K2DMm8M4o :smile: <br>
+⚡ Fun fact about me:<br>I wrote a song about a physical particle: https://www.youtube.com/watch?v=l1K2DMm8M4o :smile: <br>
  
  
 
